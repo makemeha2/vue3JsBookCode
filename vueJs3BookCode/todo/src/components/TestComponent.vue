@@ -30,6 +30,7 @@ export default {
       console.log('getCompletedTodayTodos', filter.getCompletedTodayTodos(todos2));
       console.log('getAllTodayTodos', filter.getAllTodayTodos(todos2));
       console.log('getAllTodos', filter.getAllTodos(todos2));
+
     }
 
     let tempTodos = [];
